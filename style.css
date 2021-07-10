@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+
+.abc{
+    background-color: white;
+    border-radius: 5px;
+    height: 50px;
+    width: 500px;
+}
